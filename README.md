@@ -1,4 +1,4 @@
-- Displayinf the results in a clear, organized format in the terminal.
+- Display the results in a clear, organized format in the terminal.
 - Saved the results to a CSV file named `log_analysis_results.csv` with the following structure:
     - **Requests per IP**: Columns: `IP Address`, `Request Count`
     - **Most Accessed Endpoint**: Columns: `Endpoint`, `Access Count`
